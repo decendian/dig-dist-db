@@ -17,4 +17,11 @@ type IPFSRouting interface{
     FindValuePeers(key Multihash, min int) // gets a number of peers serving a large value
 }
 
+type Ledger struct{
+	Owner NodeId
+
+
+}
+
+
 
