@@ -1,0 +1,28 @@
+Directed Acyclic Graph (DAG)
+
+Merkle DAG
+
+UnixFS
+
+Content Addressable aRchive (CAR)
+
+InterPlanetary Linked Data (IPLD)
+
+Kademlia Distributed Hash Table (DHT)
+
+Bitswap
+
+mDNS
+
+Delegated routing over HTTP
+
+libp2p
+
+Sneakernet
+
+
+
+
+
+
+
