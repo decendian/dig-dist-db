@@ -24,8 +24,12 @@ each with a unique address, and stores them without metadata.
 - Each object consists of unique name (key), binary data payload (content), set of key-value metadata attributes.
 
 ##### OSD (Object Storage Daemon)
+- responsible for storing, replicating, recovering, and rebalancing data objects. 
+-  operates as part of the RADOS
 
-MON (Monitor)
+##### MON (Monitor)
+- responsible for maintaining the health and consistency of the cluster's metadata and state. 
+- manage the cluster map and coordinate consensus across the cluster using the Paxos algorithm.
 
 MGR (Manager)
 
@@ -41,7 +45,7 @@ Ceph Dashboard
 
 Ceph + Kubernetes (Rook)
 
-
+Paxos algorithm
 
 
 
