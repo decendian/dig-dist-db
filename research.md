@@ -54,3 +54,8 @@ Paxos algorithm
 
 
 
+### Resources
+Openstack
+Amazon S3
+OpenCloud
+[CloudLab](https://www.cloudlab.us/)
